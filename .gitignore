@@ -1,0 +1,6 @@
+# Ignoring files and folder for git
+
+*.pyc
+__pycache__
+db.sqlite3
+.DS_Store
